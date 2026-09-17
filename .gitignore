@@ -1,0 +1,16 @@
+# Virtual Environments
+.venv/
+venv/
+.env
+
+
+# some files
+AI (RAG).pdf
+output.txt
+
+# Python cache
+__pycache__/
+
+# IDE
+.idea/
+.vscode/
